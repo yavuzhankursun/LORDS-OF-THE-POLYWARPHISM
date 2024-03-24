@@ -765,20 +765,3 @@ class Game:
 
 if __name__ == "__main__":
     oyun = Game()
-    """        
-                            ### TODO ###
-    #################################################################
-    # * Hasar alma X                                                #
-    # * Kaynak azaltma X                                            #
-    # * Her tur kaynak kazanımı X                                   #
-    # * Oyun bitirme koşulu X                                       #
-    # * Var olan askerin üzerine koyma X                            #
-    # * Sırayla saldırma X                                          #
-    # * Herkes yerleştirdikten sonra saldırma X                     #
-    # * Yapay zeka                                                  #
-    # * Tek oyuncu kaldıysa oyunu bitir X                           #
-    # * Rakip düşmanın üzerine asker konamaz X                      #
-    # * Oyuncu öldükten sonra oyundan çıkar ve askerlerini sil. X   #
-    #################################################################
-
-    """
